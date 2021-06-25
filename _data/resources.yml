@@ -1,0 +1,16 @@
+categories:
+- category-name: resource_room
+- category-name: 화암사 공지사항
+  category-url: notices-hwaam
+- category-name: 복지센터 공지사항
+  category-url: notices-dosolnoin
+# - category-name: 주간보호생활현장
+#   category-url: daycare-life
+- category-name: 숲체험현장
+  category-url: forest
+- category-name: 신행생활 및 자원봉사
+  category-url: religious-life
+- category-name: 자료실
+  category-url: references
+
+

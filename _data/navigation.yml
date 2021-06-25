@@ -1,0 +1,33 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+# This file contains the structure for the top navigation and bottom footer
+  
+
+- title: (구)도솔산화암사
+  url: /resource_room/
+  cols: resource_room
+  sub-links:
+  - title: All
+    url: /resource_room/
+  - title: 화암사 공지사항
+    url: /resource_room/notices-hwaam/
+  - title: 복지센터 공지사항
+    url: /resource_room/notices-dosolnoin/
+  - title: 숲체험현장  
+    url: /resource_room/forest/
+  - title: 신행생활 및 자원봉사
+    url: /resource_room/religious-life/
+  - title: 자료실
+    url: /resource_room/references/
+
+  # - title: etc.
+  #   url: /resource_room/forms-and-templates/
+  # - title: Data.gov Search
+  #   url: /data-gov-sg/
+  # - title: test_suite
+  #   url: /products-and-services/    
+
